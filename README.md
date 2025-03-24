@@ -19,7 +19,8 @@
 </div>
 
 ### 🚀 Tentang Saya
-Saya adalah siswa RPL yang memiliki passion kuat di dunia pengembangan web, dengan fokus khusus pada teknologi Node.js, Laravel, JavaScript, dan manajemen database PostgreSQL. Saya selalu bersemangat untuk mempelajari teknologi baru dan mengembangkan keterampilan pemrograman.
+Saya adalah siswa SMKN 1 JENANGAN Jurusan RPL yang sangat Antusias dengan dunia IT dan perkembangan TeknologiL. 
+Saya selalu bersemangat untuk mempelajari teknologi baru dan mengembangkan keterampilan pemrograman.
 
 ### 🌟 Keahlian Teknis
 <!-- Ikon Keahlian -->
@@ -39,11 +40,6 @@ Saya adalah siswa RPL yang memiliki passion kuat di dunia pengembangan web, deng
 - **Database:**
   - PostgreSQL
     
-
-### 📊 Statistik Coding
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
-</div>
 
 ### 📫 Hubungi Saya
 <div align="center">
