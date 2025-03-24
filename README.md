@@ -7,7 +7,7 @@
 
 <!-- Animasi Ketikan -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Web+Developer+Pemula;Node.js+Enthusiast;Laravel+Developer;PostgreSQL+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Web+Developer+Pemula;Node.js+Enthusiast;Laravel+Developer" />
 </div>
 
 ## 🏫 Siswa SMKN 1 Jenangan
