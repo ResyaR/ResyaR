@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ResyaR/ResyaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3cDFsejh0OWdjdDF0bzZpeHA2Nnp3M3J1MnU1YzRkbTVzdzB3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAKhG9iFXynDh2LEg5/giphy.gif)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 **Unix Enthusiast** - Passionate about open-source systems and command-line mastery
+
+🌐 **Web3 Enthusiast** - Exploring the decentralized future of the internet
+
+💻 **Technology Lover** - Always curious about emerging technologies and innovations
+
+🚀 **Full Stack Developer** - Building end-to-end solutions from frontend to backend
+
+---
+
+### 🛠️ Tech Stack & Interests
+
+- **Systems**: Linux, Unix-based systems, Shell scripting
+- **Blockchain**: Smart contracts, Solidity, Ethereum
+- **Frontend**: Modern web frameworks and responsive design
+- **Backend**: Server architecture, APIs, databases
+- **DevOps**: Docker, Kubernetes, CI/CD
+
+### 🌟 Always Learning
+
+Constantly exploring new technologies and contributing to the open-source community. Love connecting with fellow developers and tech enthusiasts!
+
+---
+
+📫 **Let's connect and build something awesome together!**
