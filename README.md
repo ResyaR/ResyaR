@@ -3,6 +3,8 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3cDFsejh0OWdjdDF0bzZpeHA2Nnp3M3J1MnU1YzRkbTVzdzB3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAKhG9iFXynDh2LEg5/giphy.gif" alt="Welcome" />
 </div>
+<img
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZhMThocXowMnk2M3A5ODJjNGw1eHRieDU1OGJrZnhkejZyZ2oxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ## About Me
 
