@@ -10,7 +10,7 @@
 
 🌐 **Web3 Enthusiast** - Exploring the decentralized future of the internet
 
-💻 **Technology Lover** - Always curious about emerging technologies and innovations
+💻 **Technology Enthusiast*** - Always curious about emerging technologies and innovations
 
 🚀 **Full Stack Developer** - Building end-to-end solutions from frontend to backend
 
