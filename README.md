@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack & Interests
 
 - **Systems**: Linux, Unix-based systems, Shell scripting
-- **Blockchain**: Smart contracts, Solidity, Ethereum
+- **Blockchain**: Smart contracts
 - **Frontend**: Modern web frameworks and responsive design
 - **Backend**: Server architecture, APIs, databases
 - **DevOps**: Docker, Kubernetes, CI/CD
