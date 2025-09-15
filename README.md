@@ -1,6 +1,8 @@
-# Hi there! 👋
 
-![Welcome](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3cDFsejh0OWdjdDF0bzZpeHA2Nnp3M3J1MnU1YzRkbTVzdzB3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAKhG9iFXynDh2LEg5/giphy.gif)
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR3cDFsejh0OWdjdDF0bzZpeHA2Nnp3M3J1MnU1YzRkbTVzdzB3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAKhG9iFXynDh2LEg5/giphy.gif" alt="Welcome" />
+</div>
 
 ## About Me
 
